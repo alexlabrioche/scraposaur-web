@@ -1,24 +1,9 @@
-# scraposaur-web
+# Scraposaur api
 
-## Project setup
-```
-yarn install
-```
+use `yarn` to instal all needed libs
+copy and fill `.env.example` in `.env`
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Search bar
+- normalize input to fit api research
